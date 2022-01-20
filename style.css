@@ -1,0 +1,74 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+.logo{
+  width: 200px;
+  margin-top: 75px;
+}
+.align-horizontal-logo{
+  width: 200px;
+  height: 170px;
+  margin: 0 auto;
+}
+.titolo{
+  color: #00ff00;
+  text-align: center;
+  margin-top: -10px;
+}
+.barracentrale{
+  text-align: center;
+  background-color: #00ff00;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 86%;
+  margin-top: -17px;
+}
+.stato-carica-arancione{
+  background-color: orange;
+  width: 250px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: -6px;
+}
+.stato-carica-verde{
+  background-color: #00ff00;
+  width: 450px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: -6px;
+}
+.stato-carica-rosso{
+  background-color:#c33434;
+  width: 150px;
+  height: 25px;
+  border-radius: 5px;
+  margin-top: -6px;
+}
+span{
+  font-size: 20px;
+  color: white;
+
+}
+p{
+  font-size: 17px;
+  color: white;
+  line-height: 5px;
+}
+section{
+  padding-left: 64px;
+  margin-top: 27px;
+}
+.align-section{
+  margin-left: 6px;
+}
+#container{
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 63%;
+  height: 660px;
+  border-radius: 20px;
+  margin-top: 45px;
+  margin-inline-start:auto;
+  margin-inline-end:auto;
+}
